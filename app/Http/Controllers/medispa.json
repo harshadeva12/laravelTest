@@ -1,0 +1,17 @@
+{
+  "web": {
+    "client_id": "1003009056636-9bcfor67fptp4olcel1l5aeg5ta4pl8b.apps.googleusercontent.com",
+    "project_id": "efmedispa-new-app",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost:8000",
+      "http://localhost"
+    ],
+    "javascript_origins": [
+      "http://localhost"
+    ]
+  }
+}

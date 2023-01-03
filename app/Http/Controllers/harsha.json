@@ -1,0 +1,18 @@
+{
+    "web": {
+        "client_id": "118068948920-51fh090kd59s560abuafgg8var6a08d0.apps.googleusercontent.com",
+        "project_id": "analiticstest-369309",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "https://oauth.pstmn.io/v1/callback",
+            "http://localhost",
+            "http://localhost:8000"
+        ],
+        "javascript_origins": [
+            "http://localhost"
+        ]
+    }
+}
